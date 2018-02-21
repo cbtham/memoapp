@@ -1,12 +1,14 @@
-My Memo site
+# Guide to create a memo site
+
+**My Memo site**
 
 Azure Web App hosted on Azure App Service, the site can scale on high load maintaining availability. The App Service enables schedule scaling, on demand scaling as well as automated scaling.
 
-Queue Service
+**Queue Service**
 
 Azure Storage Queue queues messages and save it in Azure storage.
 
-Triggering email
+**Triggering email**
 
 Azure functions enables server-less trigger calls to send out alerts. Azure function allows code portability if design is to be hosted on premise.
 
